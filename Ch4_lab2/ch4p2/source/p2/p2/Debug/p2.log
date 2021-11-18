@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\user\onedrive - 國立臺北科技大學\桌面\ch4_lab2\ch4p2\source\main.c(7): warning C4013: 'addbyone' 未定義; 假設 extern 傳回整數
+  p2.vcxproj -> C:\Users\User\OneDrive - 國立臺北科技大學\桌面\Ch4_lab2\ch4p2\source\p2\Debug\p2.exe

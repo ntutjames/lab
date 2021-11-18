@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\user\onedrive - 國立臺北科技大學\桌面\ch3_lab1\source\main.c(14): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+  c:\users\user\onedrive - 國立臺北科技大學\桌面\ch3_lab1\source\main.c(14): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  c:\users\user\onedrive - 國立臺北科技大學\桌面\ch3_lab1\source\main.c(14): note: 缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+  c:\users\user\onedrive - 國立臺北科技大學\桌面\ch3_lab1\source\main.c(14): note: 此引數可用為緩衝區大小
+  lab1.vcxproj -> C:\Users\User\OneDrive - 國立臺北科技大學\桌面\Ch3_lab1\source\lab1\Debug\lab1.exe
